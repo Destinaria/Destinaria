@@ -1,6 +1,6 @@
 - Hello, I’m Rosa! You definetly know me by Desti online 🌹.
-- I go by she/her 🏳️‍⚧️.
-- I'm primarily a big fan of dealing with servers, specially through express.js, and i do like making desktop stuff even if its just for myself; nevertheless, i take a ton of joy both in learning and teaching about programming!
-- I'm learning curious to get a good grasp on more functional languages, and i got my eyes on scala.
-- You can reach me through my discord (desti6666)
+- I go by she/they 🏳️‍⚧️.
+- I'm primarily a big fan of dealing with servers, specially through ekysia.js, and i do like making small desktop stuff even if its just for myself; nevertheless, i take a ton of joy both in learning and teaching about programming!
+- You can reach me through my discord (names_rosa)
 - Fun fact: i've been learning since 2021, all outta passion <3
+- [Here's my Neocities!](https://lowbatteryrose.neocities.org)
