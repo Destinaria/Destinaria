@@ -1,6 +1,6 @@
 - Hello, I’m Rosa! You definetly know me by Desti online 🌹.
 - I go by she/they 🏳️‍⚧️.
-- I'm primarily a big fan of dealing with servers, specially through ekysia.js, and i do like making small desktop stuff even if its just for myself; nevertheless, i take a ton of joy both in learning and teaching about programming!
+- I'm primarily a big fan of dealing with servers, specially through elysia.js, and i do like making small desktop stuff even if its just for myself; nevertheless, i take a ton of joy both in learning and teaching about programming!
 - You can reach me through my discord (names_rosa)
 - Fun fact: i've been learning since 2021, all outta passion <3
 - [Here's my Neocities!](https://lowbatteryrose.neocities.org)
